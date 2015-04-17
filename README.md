@@ -1,5 +1,5 @@
 # 0/3
-Dos Tercios, es una serie de cómics sobre un mundo distópico en el que todos estamos "conectados". Esta serie de cómics es parte del proyecto del [hacklab](http://wiki.hacklab.org.bo/): [Anti Internet.org de Facebook](http://wiki.hacklab.org.bo/index.php?title=Anti_Internet.org_de_Facebook#C.C3.B3mics)
+Cero Tercios, es una serie de cómics sobre un mundo distópico en el que todos estamos "conectados". Esta serie de cómics es parte del proyecto del [hacklab](http://wiki.hacklab.org.bo/): [Anti Internet.org de Facebook](http://wiki.hacklab.org.bo/index.php?title=Anti_Internet.org_de_Facebook#C.C3.B3mics)
 
 Necesitamos explicarle al mundo por qué internet.org no es tan buena idea... [también puedes contribuír de otras formas](http://wiki.hacklab.org.bo/index.php?title=Anti_Internet.org_de_Facebook)
 
